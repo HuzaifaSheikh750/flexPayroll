@@ -45,9 +45,7 @@ const FeatureCard = ({ icon, title, text, backgroundColor }) => {
         </a>
       </h4>
       <p className="mb-30">{text}</p>
-      {/* <a href="#">
-        <img src="/images/icon/icon_05.svg" alt="icon" className="lazy-img" />
-      </a> */}
+
     </div>
   );
 };
