@@ -29,7 +29,7 @@ const contact = () => {
                   Our Application <span>Features.</span>
                 </h2> 
                 <p className="text-lg text-center text-lg-start md-pt-30 m0" style={{fontStyle:"italic", fontSize:"20px", color:"white"}}>
-                A complete solution to simplify your payroll and HR procedures is provided by Dynamics 365 with FlexPayroll for Payroll & HR. FlexPayroll is a highly flexible and configurable solution that can be tailored to your company's specific needs
+                A complete solution to simplify your payroll and HR procedures is provided by Dynamics 365 with FlexPayroll for Payroll & HR. FlexPayroll is a highly flexible and configurable solution that can be tailored to your company specific needs
               </p>
               </div>
               {/* /.title-style-four */}

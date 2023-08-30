@@ -51,7 +51,7 @@ const Insurance = () => {
               <p className="text-lg tx-dark opacity-75 mb-30 lg-mb-20" style={{ fontSize: "20px", fontStyle: "" }}>
               A complete solution to simplify your payroll and HR procedures is provided by Dynamics 365 
               with FlexPayroll for Payroll & HR. FlexPayroll is a highly flexible and configurable solution that 
-              can be tailored to your company's specific needs
+              can be tailored to your company specific needs
               </p>
               </div>
               
