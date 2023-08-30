@@ -2,28 +2,28 @@ import Link from "next/link";
 const featureData = [
   {
     id: 1,
-    icon: "/images/icon/iconOne.png",
+    icon: "/images/payroll/hand.png",
     title: "Accurate Payroll Taxation",
     text: "With highly flexible tax engine, its enables you to calculate payroll tax deductions",
     backgroundColor: "#FFEBDB",
   },
   {
     id: 2,
-    icon: "/images/icon/iconTwo.png",
+    icon: "/images/payroll/setting.png",
     title: "Customizable Taxation Rules",
     text: "Dynamics 365 FlexPayroll allows you to define taxation rules and sub-rules",
     backgroundColor: "#E0F8F8",
   },
   {
     id: 3,
-    icon: "/images/icon/iconThree.png",
+    icon: "/images/payroll/graph.png",
     title: "Reporting and Analytics",
     text: "Dynamics 365 FlexPayroll provides a range of reporting and analytics tools.",
     backgroundColor: "#F7EDFF",
   },
   {
     id: 4,
-    icon: "/images/icon/iconFour.png",
+    icon: "/images/payroll/integration.png",
     title: "Formula-Based Functionality",
     text: "By using a formula-based functionality for associating rules with formulas.",
     backgroundColor: "#F7EDFF",
