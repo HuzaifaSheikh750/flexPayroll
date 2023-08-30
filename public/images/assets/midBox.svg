@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Frame97" width="1920" height="790" viewBox="0 0 1920 790" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<g clip-path="url(#clip0_1640_457)">
+<rect width="1920" height="790" fill="#145DA0" stroke-dasharray="0,0,0,5420"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,5420; 
+          0,2710,2710,0; 
+          5420,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+<circle cx="1639" cy="79" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.6759033203125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.6759033203125; 
+          0,16.83795166015625,16.83795166015625,0; 
+          33.6759033203125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="1059" cy="534" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.67619705200195"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.67619705200195; 
+          0,16.838098526000977,16.838098526000977,0; 
+          33.67619705200195,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="1915" cy="369" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.676326751708984"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.676326751708984; 
+          0,16.838163375854492,16.838163375854492,0; 
+          33.676326751708984,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="500" cy="741" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.67619323730469"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.67619323730469; 
+          0,16.838096618652344,16.838096618652344,0; 
+          33.67619323730469,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="323" cy="23" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.6761360168457"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.6761360168457; 
+          0,16.83806800842285,16.83806800842285,0; 
+          33.6761360168457,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="7" cy="369" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.67616653442383"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.67616653442383; 
+          0,16.838083267211914,16.838083267211914,0; 
+          33.67616653442383,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+<circle cx="1755" cy="705" r="5.5" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,33.67605972290039"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,33.67605972290039; 
+          0,16.838029861450195,16.838029861450195,0; 
+          33.67605972290039,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></circle>
+</g>
+<defs>
+<clipPath id="clip0_1640_457">
+<rect width="1920" height="790" fill="white" stroke-dasharray="0,0,0,5420"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="3.5714285714285716s" values="0,0,0,5420; 
+          0,2710,2710,0; 
+          5420,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+</clipPath>
+</defs>
+<setting>{"type":"direct","speed":14,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>

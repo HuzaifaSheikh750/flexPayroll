@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Frame101" width="1920" height="1360" viewBox="0 0 1920 1360" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<g clip-path="url(#clip0_1662_275)">
+<path d="M0 1344.08V583.708L1937.45 588.294V961.682C1587.27 942.867 1397.69 1088.38 1274.18 1132.68C1166.18 1171.42 997.091 1216.25 837.818 1216.25C678.546 1216.25 586.724 1193.85 425.455 1202.41C164.727 1216.25 50.1818 1302.58 0 1344.08Z" fill="#145DA0" stroke-dasharray="0,0,0,5080.93603515625"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,5080.93603515625; 
+          0,2540.468017578125,2540.468017578125,0; 
+          5080.93603515625,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<rect x="-8" y="-16" width="1936" height="619.534" fill="#145DA0" stroke-dasharray="0,0,0,5111.068359375"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,5111.068359375; 
+          0,2555.5341796875,2555.5341796875,0; 
+          5111.068359375,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+<mask id="mask0_1662_275" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-117" y="244" width="2172" height="700">
+<path d="M2055 244.699H-117V943.533H2055V244.699Z" fill="white" stroke-dasharray="0,0,0,5741.66796875"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,5741.66796875; 
+          0,2870.833984375,2870.833984375,0; 
+          5741.66796875,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+</mask>
+<g mask="url(#mask0_1662_275)">
+<path d="M2071.97 289.435C1800.29 293.722 1210.47 365.055 930.814 580.005C654.926 792.055 112.262 864.468 -132.586 869.645" stroke="white" stroke-opacity="0.22" stroke-width="1.6" stroke-dasharray="0,0,0,2309.328369140625"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,2309.328369140625; 
+          0,1154.6641845703125,1154.6641845703125,0; 
+          2309.328369140625,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M2115.94 388.905C1849.73 370.074 1274.53 390.6 932.331 581.247C594.742 769.321 66.6588 798.76 -173.695 783.097" stroke="white" stroke-opacity="0.22" stroke-width="1.6" stroke-dasharray="0,0,0,2349.410888671875"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,2349.410888671875; 
+          0,1174.7054443359375,1174.7054443359375,0; 
+          2349.410888671875,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M2151.09 499.007C1894.59 455.182 1323.43 421.129 934.15 577.615C550.122 731.986 22.801 711.215 -209.148 672.976" stroke="white" stroke-opacity="0.22" stroke-width="1.6" stroke-dasharray="0,0,0,2391.09619140625"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,2391.09619140625; 
+          0,1195.548095703125,1195.548095703125,0; 
+          2391.09619140625,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+</g>
+<ellipse cx="1859" cy="961.376" rx="11" ry="10.9038" fill="white"></ellipse>
+<ellipse cx="43" cy="1308.31" rx="11" ry="10.9038" fill="white"></ellipse>
+<ellipse cx="213" cy="1234.96" rx="11" ry="10.9038" fill="white"></ellipse>
+<ellipse cx="554" cy="1201.26" rx="11" ry="10.9038" fill="white"></ellipse>
+<ellipse cx="1031" cy="1196.3" rx="11" ry="10.9038" fill="white"></ellipse>
+<ellipse cx="1310" cy="1117" rx="11" ry="10.9038" fill="white"></ellipse>
+<ellipse cx="1678" cy="979.218" rx="11" ry="10.9038" fill="white"></ellipse>
+<path d="M47 1308C47 1310.21 45.2091 1312 43 1312C40.7909 1312 39 1310.21 39 1308C39 1305.79 40.7909 1304 43 1304C45.2091 1304 47 1305.79 47 1308Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.1375732421875"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.1375732421875; 
+          0,12.56878662109375,12.56878662109375,0; 
+          25.1375732421875,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M217 1235C217 1237.21 215.209 1239 213 1239C210.791 1239 209 1237.21 209 1235C209 1232.79 210.791 1231 213 1231C215.209 1231 217 1232.79 217 1235Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.137470245361328"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.137470245361328; 
+          0,12.568735122680664,12.568735122680664,0; 
+          25.137470245361328,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M558 1201C558 1203.21 556.209 1205 554 1205C551.791 1205 550 1203.21 550 1201C550 1198.79 551.791 1197 554 1197C556.209 1197 558 1198.79 558 1201Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.137561798095703"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.137561798095703; 
+          0,12.568780899047852,12.568780899047852,0; 
+          25.137561798095703,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1035 1196C1035 1198.21 1033.21 1200 1031 1200C1028.79 1200 1027 1198.21 1027 1196C1027 1193.79 1028.79 1192 1031 1192C1033.21 1192 1035 1193.79 1035 1196Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.138315200805664"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.138315200805664; 
+          0,12.569157600402832,12.569157600402832,0; 
+          25.138315200805664,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1314 1117C1314 1119.21 1312.21 1121 1310 1121C1307.79 1121 1306 1119.21 1306 1117C1306 1114.79 1307.79 1113 1310 1113C1312.21 1113 1314 1114.79 1314 1117Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.138315200805664"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.138315200805664; 
+          0,12.569157600402832,12.569157600402832,0; 
+          25.138315200805664,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1682 979C1682 981.209 1680.21 983 1678 983C1675.79 983 1674 981.209 1674 979C1674 976.791 1675.79 975 1678 975C1680.21 975 1682 976.791 1682 979Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.1375732421875"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.1375732421875; 
+          0,12.56878662109375,12.56878662109375,0; 
+          25.1375732421875,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1863 961C1863 963.209 1861.21 965 1859 965C1856.79 965 1855 963.209 1855 961C1855 958.791 1856.79 957 1859 957C1861.21 957 1863 958.791 1863 961Z" stroke="#145DA0" stroke-width="8" stroke-dasharray="0,0,0,25.1375732421875"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,25.1375732421875; 
+          0,12.56878662109375,12.56878662109375,0; 
+          25.1375732421875,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+</g>
+<defs>
+<clipPath id="clip0_1662_275">
+<rect width="1920" height="1360" fill="white" stroke-dasharray="0,0,0,6560"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="8.333333333333334s" values="0,0,0,6560; 
+          0,3280,3280,0; 
+          6560,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+</clipPath>
+</defs>
+<setting>{"type":"direct","speed":6,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>

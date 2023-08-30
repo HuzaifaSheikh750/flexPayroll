@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Frame97 2" width="1786" height="555" viewBox="0 0 1786 555" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<g clip-path="url(#clip0_1688_958)">
+<path d="M1786 0H0V555H1786V0Z" fill="#145DA0" stroke-dasharray="0,0,0,4682"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,4682; 
+          0,2341,2341,0; 
+          4682,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1458 457.5C1461.04 457.5 1463.5 455.038 1463.5 452C1463.5 448.962 1461.04 446.5 1458 446.5C1454.96 446.5 1452.5 448.962 1452.5 452C1452.5 455.038 1454.96 457.5 1458 457.5Z" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,34.56565856933594"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,34.56565856933594; 
+          0,17.28282928466797,17.28282928466797,0; 
+          34.56565856933594,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1729.5 304C1732.54 304 1735 301.538 1735 298.5C1735 295.462 1732.54 293 1729.5 293C1726.46 293 1724 295.462 1724 298.5C1724 301.538 1726.46 304 1729.5 304Z" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,34.56573486328125"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,34.56573486328125; 
+          0,17.282867431640625,17.282867431640625,0; 
+          34.56573486328125,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M318 253.5C321.038 253.5 323.5 251.038 323.5 248C323.5 244.962 321.038 242.5 318 242.5C314.962 242.5 312.5 244.962 312.5 248C312.5 251.038 314.962 253.5 318 253.5Z" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,34.563270568847656"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,34.563270568847656; 
+          0,17.281635284423828,17.281635284423828,0; 
+          34.563270568847656,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M1352 267.5C1355.04 267.5 1357.5 265.038 1357.5 262C1357.5 258.962 1355.04 256.5 1352 256.5C1348.96 256.5 1346.5 258.962 1346.5 262C1346.5 265.038 1348.96 267.5 1352 267.5Z" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,34.565372467041016"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,34.565372467041016; 
+          0,17.282686233520508,17.282686233520508,0; 
+          34.565372467041016,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M642 471.5C645.038 471.5 647.5 469.038 647.5 466C647.5 462.962 645.038 460.5 642 460.5C638.962 460.5 636.5 462.962 636.5 466C636.5 469.038 638.962 471.5 642 471.5Z" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,34.56336212158203"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,34.56336212158203; 
+          0,17.281681060791016,17.281681060791016,0; 
+          34.56336212158203,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+<path d="M33 413.5C36.0376 413.5 38.5 411.038 38.5 408C38.5 404.962 36.0376 402.5 33 402.5C29.9624 402.5 27.5 404.962 27.5 408C27.5 411.038 29.9624 413.5 33 413.5Z" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="0,0,0,34.56292724609375"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,34.56292724609375; 
+          0,17.281463623046875,17.281463623046875,0; 
+          34.56292724609375,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></path>
+</g>
+<defs>
+<clipPath id="clip0_1688_958">
+<rect width="1786" height="555" fill="white" stroke-dasharray="0,0,0,4682"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="5.555555555555555s" values="0,0,0,4682; 
+          0,2341,2341,0; 
+          4682,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+</clipPath>
+</defs>
+<setting>{"type":"direct","speed":9,"random":1,"shift":1,"size":1,"rupture":50}</setting></svg>
